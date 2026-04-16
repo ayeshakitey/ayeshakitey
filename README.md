@@ -8,7 +8,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🌱 I’m currently learning **React, REST APIs, and Cloud Deployment**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Python, Django, Machine Learning, and Web Development**
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **ayeshakitey@gmail.com**
 - ⚡ Fun fact: **I love turning ideas into real-world applications!**
 
 ---
