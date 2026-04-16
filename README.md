@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="300" 
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **Diamond Price Prediction using Machine Learning and Django**
+- 🔭 I’m currently working on **kcozm The Salon Web Application **
 - 🌱 I’m currently learning **React, REST APIs, and Cloud Deployment**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Python, Django, Machine Learning, and Web Development**
